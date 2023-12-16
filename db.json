@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "RaviBhaiya",
+      "address": "balaju",
+      "Phone": "2332123321"
+    },
+    {
+      "id": 2,
+      "name": "suman",
+      "address": "kaliamti",
+      "Phone": "9823331345"
+    },
+    {
+      "id": 2,
+      "name": "sima",
+      "address": "bafal",
+      "Phone": "9833332345"
+    }
+  ]
+}
